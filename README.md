@@ -39,7 +39,10 @@ These are the components used for this experiment
 
 ## Configuration
 
+<img width="3000" height="2412" alt="circuit_image" src="https://github.com/user-attachments/assets/70f70b0e-9653-499e-9e7e-21725b46080b" />
+
 Pinout configuration
+
 PC8 -> RS
 PC5-> EN
 
