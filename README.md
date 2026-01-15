@@ -18,7 +18,6 @@ With this project, I gather the basic instructions and code, to manage LCD from 
   - [Installation](#installation)
   - [Configuration](#configuration)
   - [Usage](#usage)
-  - [Caveats](#caveats)
   - [Changelog](#changelog)
   - [Authors](#authors)
 
@@ -26,17 +25,21 @@ With this project, I gather the basic instructions and code, to manage LCD from 
 
 For version information check [CHANGELOG.yaml](CHANGELOG.yaml)
 
-## Restrictions
-
 ## Requirements
+
+These are the components used for this experiment
+
+- [STM32 development board](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html) 
+- [16×2 LCD module]([https://www.st.com/en/evaluation-tools/nucleo-f103rb.html](https://www.winstar.com.tw/products/lcd-display/character-lcd-display-module/dot-matrix-lcd.html))
+- 10 kΩ potentiometer for contrast
+- Jumper wires and
+- Breadboard
 
 ## Installation
 
 ## Configuration
 
 ## Usage
-
-## Caveats
 
 ## Changelog
 
