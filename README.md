@@ -39,6 +39,15 @@ These are the components used for this experiment
 
 ## Configuration
 
+Pinout configuration
+PC8 -> RS
+PC5-> EN
+
+PA12 -> D4
+PA11 -> D5
+PB12 -> D6
+PB11 -> D7
+
 ## Usage
 
 ## Changelog
