@@ -9,7 +9,7 @@ With this project, I gather the basic instructions and code, to manage LCD from 
 
 ## Table of Contents
 
-- [STM32_LCD1602](stm32_lcd1602a)
+- [STM32_LCD1602](STM32-board-drive-a-1602a-LCD)
   - [Table of Contents](#table-of-contents)
   - [Version](#version)
   - [Contents](#contents)
@@ -30,7 +30,7 @@ For version information check [CHANGELOG.yaml](CHANGELOG.yaml)
 These are the components used for this experiment
 
 - [STM32 development board](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html) 
-- [16×2 LCD module]([https://www.st.com/en/evaluation-tools/nucleo-f103rb.html](https://www.winstar.com.tw/products/lcd-display/character-lcd-display-module/dot-matrix-lcd.html))
+- [16×2 LCD module](https://www.winstar.com.tw/products/lcd-display/character-lcd-display-module/dot-matrix-lcd.html)
 - 10 kΩ potentiometer for contrast
 - Jumper wires and
 - Breadboard
