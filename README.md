@@ -43,13 +43,13 @@ These are the components used for this experiment
 
 Pinout configuration
 
-PC8 -> RS
-PC5-> EN
+- STM32 PC8 -> RS LCD
+- STM32 PC5-> EN LCD
 
-PA12 -> D4
-PA11 -> D5
-PB12 -> D6
-PB11 -> D7
+- STM32 PA12 -> D4 LCD
+- STM32 PA11 -> D5 LCD
+- STM32 PB12 -> D6 LCD
+- STM32 PB11 -> D7 LCD
 
 ## Usage
 
