@@ -39,7 +39,7 @@ These are the components used for this experiment
 
 ## Configuration
 
-<img width="2743" height="2237" alt="circuit_image" src="https://github.com/user-attachments/assets/c577a230-8abb-43c9-807d-efee20c37e8b" />
+<img width="1955" height="1799" alt="circuit_image" src="https://github.com/user-attachments/assets/5a0508b1-f539-4517-9c8e-3a0b228c510c" />
 
 Pinout configuration
 
