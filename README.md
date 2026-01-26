@@ -1,8 +1,11 @@
 # STM32 board drive a 1602a LCD
 
-Drive a 1602A LCD from a STM32 Nucleo-F103RB board
-Description description from the STMicroelectronics website: 
+Drive a 1602A LCD from a STM32 Nucleo-F103RB board without I2c
+
+Description from the STMicroelectronics website:
+
 "The STM32 Nucleo-64 board provides an affordable and flexible way for users to try out new concepts and build prototypes by choosing from the various combinations of performance and power consumption features provided by the STM32 microcontroller. For the compatible boards, the internal or external SMPS significantly reduces power consumption in Run mode."
+
 https://www.st.com/en/evaluation-tools/nucleo-f103rb.html
 
 With this project, I gather the basic instructions and code, to manage LCD from the STM board
